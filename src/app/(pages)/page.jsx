@@ -1,8 +1,10 @@
 import React from "react";
+import { Button } from "@/components/ui/button";
 
 const page = () => {
   return (
     <div className="max-w-[1920px] mx-auto">
+      <Button className="w-[300px]">Hello</Button>
       <div className="bg-white text-black text-[15px]">
         <div className="px-4 sm:px-10">
           <div className="min-h-[500px]">
@@ -417,8 +419,8 @@ const page = () => {
                   <p>
                     Experience unparalleled customization options tailored to
                     suit your unique needs. Our platform provides a wide array
-                    of features ensuring you have the flexibility to
-                    personalize your journey.
+                    of features ensuring you have the flexibility to personalize
+                    your journey.
                   </p>
                   <button
                     type="button"
@@ -654,8 +656,8 @@ const page = () => {
                 </h3>
                 <p className="text-base font-semibold mt-4">Engagement</p>
                 <p className="mt-2">
-                  The level of user engagement with the applications content
-                  and features.
+                  The level of user engagement with the applications content and
+                  features.
                 </p>
               </div>
               <div className="text-center">
@@ -837,8 +839,6 @@ const page = () => {
           </div>
         </div>
       </div>
-
-     
     </div>
   );
 };
