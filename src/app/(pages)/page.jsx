@@ -16,12 +16,12 @@ const page = () => {
                   Schedule meetings effortlessly
                 </h1>
                 <p className="mt-4 text-base leading-relaxed">
-                  Embark on a gastronomic journey with our curated dishes,
+                  Embark on a gastronomic journey with our curated dishes
                   delivered promptly to your doorstep. Elevate your dining
                   experience today. Delve into the details and let us enhance
                   every aspect of your dining adventure.
                 </p>
-                <div className="bg-white mt-10 flex px-1 py-1.5 rounded-full shadow-[0_2px_10px_-3px_rgba(6,81,237,0.3)] overflow-hidden">
+                <div className="bg-white mt-10 flex px-1 py-1.5 rounded-full shadow-[0_2px_10px_-3px_rgba(6812370.3)] overflow-hidden">
                   <input
                     type="email"
                     placeholder="Search Something..."
@@ -407,7 +407,7 @@ const page = () => {
                 <div>
                   <img
                     src="https://readymadeui.com/image-1.webp"
-                    className="w-full object-contain rounded-md shadow-[0_2px_10px_-3px_rgba(6,81,237,0.3)]"
+                    className="w-full object-contain rounded-md shadow-[0_2px_10px_-3px_rgba(6812370.3)]"
                   />
                 </div>
                 <div className="max-w-lg">
@@ -417,7 +417,7 @@ const page = () => {
                   <p>
                     Experience unparalleled customization options tailored to
                     suit your unique needs. Our platform provides a wide array
-                    of features, ensuring you have the flexibility to
+                    of features ensuring you have the flexibility to
                     personalize your journey.
                   </p>
                   <button
@@ -433,8 +433,8 @@ const page = () => {
                   </h3>
                   <p>
                     Unlock top-notch performance with our advanced optimization
-                    techniques. We prioritize speed, efficiency, and reliability
-                    to ensure a seamless experience, no matter the complexity of
+                    techniques. We prioritize speed efficiency and reliability
+                    to ensure a seamless experience no matter the complexity of
                     your tasks.
                   </p>
                   <button
@@ -447,7 +447,7 @@ const page = () => {
                 <div>
                   <img
                     src="https://readymadeui.com/contact.webp"
-                    className="w-full object-contain rounded-md shadow-[0_2px_10px_-3px_rgba(6,81,237,0.3)]"
+                    className="w-full object-contain rounded-md shadow-[0_2px_10px_-3px_rgba(6812370.3)]"
                   />
                 </div>
               </div>
@@ -468,7 +468,7 @@ const page = () => {
                       className="w-full h-60 object-cover group-hover:scale-125 transition-all duration-300"
                     />
                     <div className="px-4 py-2.5 text-white bg-blue-600 absolute bottom-0 right-0">
-                      June 10, 2023
+                      June 10 2023
                     </div>
                   </div>
                   <div className="p-6">
@@ -491,7 +491,7 @@ const page = () => {
                       className="w-full h-60 object-cover group-hover:scale-125 transition-all duration-300"
                     />
                     <div className="px-4 py-2.5 text-white bg-blue-600 absolute bottom-0 right-0">
-                      April 20, 2023
+                      April 20 2023
                     </div>
                   </div>
                   <div className="p-6">
@@ -514,7 +514,7 @@ const page = () => {
                       className="w-full h-60 object-cover group-hover:scale-125 transition-all duration-300"
                     />
                     <div className="px-4 py-2.5 text-white bg-blue-600 absolute bottom-0 right-0">
-                      August 16, 2023
+                      August 16 2023
                     </div>
                   </div>
                   <div className="p-6">
@@ -578,7 +578,7 @@ const page = () => {
                       className="w-16 h-16 rounded-full max-sm:mb-2"
                     />
                   </div>
-                  <div className="flex sm:items-center max-sm:flex-col-reverse p-6 relative lg:left-12 bg-white shadow-[0_2px_20px_-4px_rgba(93,96,127,0.2)] rounded-md">
+                  <div className="flex sm:items-center max-sm:flex-col-reverse p-6 relative lg:left-12 bg-white shadow-[0_2px_20px_-4px_rgba(93961270.2)] rounded-md">
                     <div className="mr-3">
                       <h4 className="text-base font-semibold">Mark Adair</h4>
                       <p className="mt-2">
@@ -678,12 +678,12 @@ const page = () => {
               </h2>
               <p>
                 Explore common questions and find answers to help you make the
-                most out of our services. If you dont see your question here,
+                most out of our services. If you dont see your question here
                 feel free to contact us for assistance.
               </p>
             </div>
             <div
-              className="shadow-[0_2px_10px_-3px_rgba(6,81,237,0.3)] border-2 border-blue-600 rounded-md transition-all"
+              className="shadow-[0_2px_10px_-3px_rgba(6812370.3)] border-2 border-blue-600 rounded-md transition-all"
               role="accordion"
             >
               <button
@@ -709,20 +709,20 @@ const page = () => {
               </button>
               <div className="pb-5 px-6">
                 <p>
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed
-                  auctor auctor arcu, at fermentum dui. Maecenas vestibulum a
+                  Lorem ipsum dolor sit amet consectetur adipiscing elit. Sed
+                  auctor auctor arcu at fermentum dui. Maecenas vestibulum a
                   turpis in lacinia. Proin aliquam turpis at erat venenatis
-                  malesuada. Sed semper, justo vitae consequat fermentum, felis
-                  diam posuere ante, sed fermentum quam justo in dui. Nulla
-                  facilisi. Nulla aliquam auctor purus, vitae dictum dolor
+                  malesuada. Sed semper justo vitae consequat fermentum felis
+                  diam posuere ante sed fermentum quam justo in dui. Nulla
+                  facilisi. Nulla aliquam auctor purus vitae dictum dolor
                   sollicitudin vitae. Sed bibendum purus in efficitur consequat.
                   Fusce et tincidunt arcu. Curabitur ac lacus lectus. Morbi
-                  congue facilisis sapien, a semper orci facilisis in.
+                  congue facilisis sapien a semper orci facilisis in.
                 </p>
               </div>
             </div>
             <div
-              className="shadow-[0_2px_10px_-3px_rgba(6,81,237,0.3)] border-2 border-transparent hover:border-blue-600 rounded-md transition-all"
+              className="shadow-[0_2px_10px_-3px_rgba(6812370.3)] border-2 border-transparent hover:border-blue-600 rounded-md transition-all"
               role="accordion"
             >
               <button
@@ -751,7 +751,7 @@ const page = () => {
               </div>
             </div>
             <div
-              className="shadow-[0_2px_10px_-3px_rgba(6,81,237,0.3)] border-2 border-transparent hover:border-blue-600 rounded-md transition-all"
+              className="shadow-[0_2px_10px_-3px_rgba(6812370.3)] border-2 border-transparent hover:border-blue-600 rounded-md transition-all"
               role="accordion"
             >
               <button
@@ -779,7 +779,7 @@ const page = () => {
               </div>
             </div>
             <div
-              className="shadow-[0_2px_10px_-3px_rgba(6,81,237,0.3)] border-2 border-transparent hover:border-blue-600 rounded-md transition-all"
+              className="shadow-[0_2px_10px_-3px_rgba(6812370.3)] border-2 border-transparent hover:border-blue-600 rounded-md transition-all"
               role="accordion"
             >
               <button
@@ -807,7 +807,7 @@ const page = () => {
               </div>
             </div>
             <div
-              className="shadow-[0_2px_10px_-3px_rgba(6,81,237,0.3)] border-2 border-transparent hover:border-blue-600 rounded-md transition-all"
+              className="shadow-[0_2px_10px_-3px_rgba(6812370.3)] border-2 border-transparent hover:border-blue-600 rounded-md transition-all"
               role="accordion"
             >
               <button
@@ -838,24 +838,7 @@ const page = () => {
         </div>
       </div>
 
-      {/* <script>
-
-    var toggleOpen = document.getElementById('toggleOpen');
-    var toggleClose = document.getElementById('toggleClose');
-    var collapseMenu = document.getElementById('collapseMenu');
-
-    function handleClick() {
-      if (collapseMenu.style.display === 'block') {
-        collapseMenu.style.display = 'none';
-      } else {
-        collapseMenu.style.display = 'block';
-      }
-    }
-
-    toggleOpen.addEventListener('click', handleClick);
-    toggleClose.addEventListener('click', handleClick);
-
-  </script> */}
+     
     </div>
   );
 };
