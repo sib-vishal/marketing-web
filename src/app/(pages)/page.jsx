@@ -654,7 +654,7 @@ const page = () => {
                 </h3>
                 <p className="text-base font-semibold mt-4">Engagement</p>
                 <p className="mt-2">
-                  The level of user engagement with the application's content
+                  The level of user engagement with the applications content
                   and features.
                 </p>
               </div>
@@ -678,7 +678,7 @@ const page = () => {
               </h2>
               <p>
                 Explore common questions and find answers to help you make the
-                most out of our services. If you don't see your question here,
+                most out of our services. If you dont see your question here,
                 feel free to contact us for assistance.
               </p>
             </div>
